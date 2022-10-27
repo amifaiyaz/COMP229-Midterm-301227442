@@ -1,0 +1,15 @@
+/*Name: Faiyaz Muhammad
+StudentID: 301227442
+WebApp name: comp229-midterm-301227442
+*/
+.navbar{
+    background-image: linear-gradient(to bottom right,#58595c,#4286f4);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  
+  .navbar-brand, .nav-link{
+    color: white;
+  }
+  .navbar fixed-bottom bg-light{
+    text-align: center;
+  }
